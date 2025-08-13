@@ -22,7 +22,7 @@ An Arduino-based pet food dispenser with manual and scheduled feeding times, bui
 
 The circuit schematic and PCB layout were designed in KiCad. You can view the PDFs below, and all original design files are available in the `/hardware` folder.
 
-* **[View Schematic PDF](hardware/Dog food dispense PCB.pdf)**
+* **[View Schematic PDF](hardware/Dog_food_dispense_Schematic.pdf)**
 * **[View PCB Layout PDF](hardware/your_pcb_filename.pdf)**
 
 ## Libraries Used
