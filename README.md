@@ -18,6 +18,13 @@ An Arduino-based pet food dispenser with manual and scheduled feeding times, bui
 * 3x Push Buttons
 * 12V DC Power Supply
 
+## Hardware Design ⚡️
+
+The circuit schematic and PCB layout were designed in KiCad. You can view the PDFs below, and all original design files are available in the `/hardware` folder.
+
+* **[View Schematic PDF](hardware/Dog_food_dispence_PCB.pdf)**
+* **[View PCB Layout PDF](hardware/your_pcb_filename.pdf)**
+
 ## Libraries Used
 
 * [`AccelStepper`](https://www.airspayce.com/mikem/arduino/AccelStepper/) by Mike McCauley
